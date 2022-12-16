@@ -1,0 +1,328 @@
+@media screen and (max-width:1440px) {
+    #div-ppal{
+    position: absolute;
+    left: 37.5%;
+    width: 25%;
+    height: 500px;
+    background: white;
+    top: 305px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    
+    }
+    
+    #contenedor-img{
+        width: 25%;
+        position: absolute;
+        left: 37.5%;
+        margin: 0 auto;
+    }
+    
+    img{
+        width: 100%;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+    }
+    
+    #section-tittle{
+        width: 100%;
+        position: absolute;
+        top: 20px;
+        text-align: center;
+    }
+    
+    
+    
+    #section-p1{
+        width: 70%;
+        position: absolute;
+        left: 15%;
+        top: 80px;
+        text-align: center;
+    }
+    
+    .p1{
+        font-family: Red Hat Display;
+        color: #717589;
+    }
+    
+    .p-tittle{
+        font-size: 20px;
+        font-weight: bolder;
+        }
+    
+    .p-plan{
+        font-family: Red Hat Display;
+        margin-top: 3px;
+        font-weight: bolder;
+        color: #101731;
+    }
+    
+    
+    .p-price{
+        font-family: Red Hat Display;
+        margin-top: -15px;
+        color: #7f849a;
+    }
+    
+    .p-change{
+        font-family: Red Hat Display;
+        margin-top: 1px;
+        margin-left: 60px;
+        font-weight: 900;
+        padding-left: -10px;
+        color: #362e93;
+    }
+    
+    .p-button{
+        font-family: Red Hat Display;
+        font-weight: 900;
+        color: white
+    }
+    
+    .p-cancel{
+        font-family: Red Hat Display;
+        font-weight: 900;
+        color: #6a7092
+    }
+    
+    .p-tittle{
+        font-family: Red Hat Display;
+        font-weight: bold;
+    }
+    
+    .div1{
+        width: 80%;
+        left: 10%;
+        position: absolute;
+        top: 200px;
+        text-align: center;
+        background: #f8f9fe;
+        border-radius: 10px;
+        
+    }
+    
+    .div2{
+        padding-left: 10px;
+        padding-top: 5px;
+        margin-left: 5px;
+        float: left;
+    }
+    
+    .div3{
+        
+        float: left;
+    }
+    
+    .div4{
+        float: left;
+    }
+    
+    .payment{
+        width: 100%;
+        position: absolute;
+        top: 100px;
+        text-align: center;
+    }
+    
+    .cancel{
+        width: 100%;
+        position: absolute;
+        top: 170px;
+        text-align: center;
+    }
+    
+    .section1{
+        margin-left: 15px;
+    }
+    
+    .section2{
+        margin-left: 15px;
+    }
+    
+    .section3{
+        margin-left: 30px;
+        padding-top: 15px;
+    }
+    
+    
+    
+    #button{
+        border-radius: 10px;
+        background: #372bdf;
+        width: 100%;
+        border: 2px solid #372bdf;
+        color: white;
+        display: grid;
+        place-content: center;
+        height: 50px;
+        box-shadow: 0px 7px #dbd8f7;
+        text-align: center;
+    }
+    
+    
+    }
+    
+    @media screen and (min-width:375px) {
+    
+       #div-ppal{
+    position: absolute;
+    left: 37.5%;
+    width: 25%;
+    height: 500px;
+    background: white;
+    top: 305px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    
+    }
+    
+    #contenedor-img{
+        width: 25%;
+        position: absolute;
+        left: 37.5%;
+        margin: 0 auto;
+    }
+    
+    img{
+        width: 100%;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+    }
+    
+    #section-tittle{
+        width: 100%;
+        position: absolute;
+        top: 20px;
+        text-align: center;
+    }
+    
+    
+    
+    #section-p1{
+        width: 70%;
+        position: absolute;
+        left: 15%;
+        top: 80px;
+        text-align: center;
+    }
+    
+    .p1{
+        font-family: Red Hat Display;
+        color: #717589;
+    }
+    
+    .p-tittle{
+        font-size: 20px;
+        font-weight: bolder;
+        }
+    
+    .p-plan{
+        font-family: Red Hat Display;
+        margin-top: 3px;
+        font-weight: bolder;
+        color: #101731;
+    }
+    
+    
+    .p-price{
+        font-family: Red Hat Display;
+        margin-top: -15px;
+        color: #7f849a;
+    }
+    
+    .p-change{
+        font-family: Red Hat Display;
+        margin-top: 1px;
+        margin-left: 60px;
+        font-weight: 900;
+        padding-left: -10px;
+        color: #362e93;
+    }
+    
+    .p-button{
+        font-family: Red Hat Display;
+        font-weight: 900;
+        color: white
+    }
+    
+    .p-cancel{
+        font-family: Red Hat Display;
+        font-weight: 900;
+        color: #6a7092
+    }
+    
+    .p-tittle{
+        font-family: Red Hat Display;
+        font-weight: bold;
+    }
+    
+    .div1{
+        width: 80%;
+        left: 10%;
+        position: absolute;
+        top: 200px;
+        text-align: center;
+        background: #f8f9fe;
+        border-radius: 10px;
+        
+    }
+    
+    .div2{
+        padding-left: 10px;
+        padding-top: 5px;
+        margin-left: 5px;
+        float: left;
+    }
+    
+    .div3{
+        
+        float: left;
+    }
+    
+    .div4{
+        float: left;
+    }
+    
+    .payment{
+        width: 100%;
+        position: absolute;
+        top: 100px;
+        text-align: center;
+    }
+    
+    .cancel{
+        width: 100%;
+        position: absolute;
+        top: 170px;
+        text-align: center;
+    }
+    
+    .section1{
+        margin-left: 15px;
+    }
+    
+    .section2{
+        margin-left: 15px;
+    }
+    
+    .section3{
+        margin-left: 30px;
+        padding-top: 15px;
+    }
+    
+    
+    
+    #button{
+        border-radius: 10px;
+        background: #372bdf;
+        width: 100%;
+        border: 2px solid #372bdf;
+        color: white;
+        display: grid;
+        place-content: center;
+        height: 50px;
+        box-shadow: 0px 7px #dbd8f7;
+        text-align: center;
+    }
+    }
